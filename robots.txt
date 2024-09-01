@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sowonpark02.github.io/sitemap.xml
+Sitemap: https://sowonpark-polsci.github.io/sitemap.xml
