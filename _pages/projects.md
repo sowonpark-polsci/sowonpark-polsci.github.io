@@ -1,65 +1,55 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description:
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+<div>
+<p class="text">
+<p style="font-size: 20px;
+          color: #666699;
+          font-weight:bold;
+          margin-bottom:0.5;
+          padding-top:0;">
+Dissertation Project</p>
 
-{% else %}
+<p style="font-size: 16px;
+          color: #666699;
+          font-style: italic;">
+"The Structure of Foreign Policy Preferences in the U.S. Congress"</p>
 
-<!-- Display projects without categories -->
+<p style="font-size: 15px;">
+What motivates legislators to support or oppose foreign policy? In my dissertation, I build a composite model that examines the interplay between ideology and party, offering a more nuanced understanding of how legislative preferences are structured in foreign policy. Legislators develop personal preferences regarding whether and how the United States should engage in world affairs, which may not always align with the positions of the president or their party. Existing measures of legislators’ policy preferences, often based on roll call records, tend to overestimate partisan competition rather than reflect members’ personal ideological preferences. To investigate how legislators' personal ideological preferences and partisan motivations collectively shape their foreign policy preferences and decisions, my dissertation analyzes more than 100,000 Senate floor speeches on diverse foreign policy issues from 1947 to 2020. Using supervised machine learning, I measure senators' isolationist, cooperative internationalist, and militant internationalist preference.</p>
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+<p> &nbsp; </p>
+<p> &nbsp; </p>
 
-  <!-- Generate cards for each project -->
+<hr>
 
-{% if page.horizontal %}
+<p class="text">
+<p style="font-size: 20px;
+          color: #666699;
+          font-weight:bold;
+          margin-bottom:0.5;
+          padding-top:0;">
+Work in progress</p>
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+<p style="font-size: 16px;font-style: italic; margin-bottom:0">
+"Cue-Taking on Foreign Policy Issues: Ideological Orientation and Party Identification"</p>
+<p style="font-size: 15px; text-indent: 1em">With Todd Sechser and Sunggun Park (University of Virginia)</p>
+
+<p style="font-size: 16px;font-style: italic; margin-bottom:0">
+“Nuclear Weapons and National Prestige”</p>
+<p style="font-size: 15px; text-indent: 1em">With Todd Sechser and Sunggun Park (University of Virginia)</p>
+
+<p style="font-size: 16px;font-style: italic; margin-bottom:5">
+“Democratic Noise in Times of International Crises”</p>
+
+<p style="font-size: 16px;font-style: italic; margin-bottom:0">
+“Violence and Prosocial Motivation”</p>
+<p style="font-size: 15px; text-indent: 1em">With Todd Sechser (University of Virginia)</p>

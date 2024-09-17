@@ -2,11 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching Assistant, University of Virginia
 
-Organize your courses by years, topics, or universities, however you like!
+<div>
+  <li>The Military and American Democracy, PLIR 3500 (Fall 2023)
+  <br>
+  <p style="font-size: 14px; text-indent:40px;">
+    For more information on course evaluations, click <a href="https://www.dropbox.com/scl/fi/1exb93scxeric1ykc52jx/Report-for-PLIR-3500-101-Special-Topics-PLIR-3500-102-Special-Topics-PLIR-3500-103-Special-Topics-Sowon-Park_dfa35ac0-5d0c-461c-839e-ccca667da9f3en-US.pdf?rlkey=ksthqv28w3n3lvj2io620ylfd&st=zcps525z&dl=0">here</a>.</p>
+    </li>
+
+  <li>International Relations, PLIR 1010 (Fall 2022)
+  <br>
+  <p style="font-size: 14px; text-indent:40px;">
+    For more information on course evaluations, click <a href="https://www.dropbox.com/scl/fi/0bbzu1busjl4ez0jcudjm/Report-for-PLIR-1010-104-International-Relations-PLIR-1010-105-International-Relations-PLIR-1010-106-Internati_94FD126C-0B44-4D1E-939F-0F5C7090C3F0en-US.pdf?rlkey=87p30cnz4mxuwfizfa5wwl1f8&st=vllzv8mn&dl=0">here</a>.</p>
+    </li>
+</div>
