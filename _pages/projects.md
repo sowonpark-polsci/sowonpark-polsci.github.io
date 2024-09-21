@@ -40,8 +40,10 @@ What motivates legislators to support or oppose foreign policy? In my dissertati
 Work in progress</p>
 
 <p style="font-size: 16px;font-style: italic; margin-bottom:0">
-"Cue-Taking on Foreign Policy Issues: Ideological Orientation and Party Identification"</p>
+"Partisanship, Ideology, and Elite Cues in Foreign Policy"</p>
 <p style="font-size: 15px; text-indent: 1em">With Todd Sechser and Sunggun Park (University of Virginia)</p>
+Latest draft <a href="https://www.dropbox.com/scl/fi/lq2evnr6ry6z013magn5s/Park-Sechser-and-Park-2024.pdf?rlkey=5w0qr2bjo5rmtxfzmvyyvlsld&st=uth339ij&dl=0" style="color:#2CABEA; text-decoration: underline;">Here</a>
+
 
 <p style="font-size: 16px;font-style: italic; margin-bottom:0">
 “Nuclear Weapons and National Prestige”</p>
