@@ -44,7 +44,8 @@ Work in progress</p>
 <p style="font-size: 15px; text-indent: 1em; margin-bottom:0">
 With Todd Sechser and Sunggun Park (University of Virginia)</p>
 
-<script type="text/javascript">
+<!---<script type="text/javascript">--->
+<script>
 function toggle(obj) {
 var obj=document.getElementById(obj);
 if (obj.style.display == "block") obj.style.display = "none";
