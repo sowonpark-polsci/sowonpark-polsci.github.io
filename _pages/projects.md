@@ -43,7 +43,8 @@ Work in progress</p>
 "Partisanship, Ideology, and Elite Cues in Foreign Policy"</p>
 <p style="font-size: 15px; text-indent: 1em; margin-bottom:0">
 With Todd Sechser and Sunggun Park (University of Virginia)</p>
-<p style="font-size: 15px; text-indent: 1em; ">Latest draft</p> <a href="https://www.dropbox.com/scl/fi/lq2evnr6ry6z013magn5s/Park-Sechser-and-Park-2024.pdf?rlkey=5w0qr2bjo5rmtxfzmvyyvlsld&st=uth339ij&dl=0" style="color:#2CABEA; text-decoration: underline">Here</a>
+<p style="font-size: 15px; text-indent: 1em; ">Latest draft <a href="https://www.dropbox.com/scl/fi/lq2evnr6ry6z013magn5s/Park-Sechser-and-Park-2024.pdf?rlkey=5w0qr2bjo5rmtxfzmvyyvlsld&st=uth339ij&dl=0" style="color:#2CABEA; text-decoration: underline">Here</a></p>
+
 
 
 <p style="font-size: 16px;font-style: italic; margin-bottom:0">
