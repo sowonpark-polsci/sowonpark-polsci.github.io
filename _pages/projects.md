@@ -46,7 +46,6 @@ Work in progress</p>
 <br>
 <span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; margin-top:0">
 With Todd Sechser and Sunggun Park (University of Virginia)</span>
-
 <br>
 <script type="text/javascript">
 function toggle(obj) {
@@ -64,11 +63,26 @@ else obj.style.display = "block";
 
 
 
-
-<p style="font-size: 16px;font-style: italic; margin-top:0.3cm ;margin-bottom:0; color: #666699;">
-“Nuclear Weapons and National Prestige”</p>
-<p style="font-size: 15px; text-indent: 1.5em">With Todd Sechser and Sunggun Park (University of Virginia)</p>
-
+<p>
+<span style="font-size: 16px;font-style: italic; margin-top:0.3cm ;margin-bottom:0; color: #666699;">
+“Nuclear Weapons and National Prestige”</span>
+<br>
+<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; margin-top:0">
+With Todd Sechser and Sunggun Park (University of Virginia)</span>
+<br>
+<script type="text/javascript">
+function toggle(obj) {
+var obj=document.getElementById(obj);
+if (obj.style.display == "block") obj.style.display = "none";
+else obj.style.display = "block";
+}
+</script>
+<a href="javascript: void(0);" onClick="toggle('q2')">
+<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; text-decoration: underline; color:#13799E;">Abstract</span>
+</a>
+<div id="q2" style="display:none;">
+<p style="font-size: 15px; margin-left: 3.5em; margin-bottom:2em">Does the public believe that nuclear weapons confer prestige in international politics? Many scholars have asserted that national publics often applaud leaders’ decisions to pursue nuclear weapons in part because they believe that nuclear weapons would enhance their country’s status. If the public sees nuclear acquisition as a path to national prestige, this could create political incentives for leaders to pursue nuclear weapons. Other scholars, however, argue that the prestige value of nuclear weapons has faded, and that nuclear self-restraint now carries more prestige than nuclear acquisition. In this paper, we conduct a series of surveys and experiments in South Korea--a potential nuclear threshold state--that examine the linkage between nuclear status and public perceptions of national prestige. There are three main findings. First, the South Korean public attaches a significant amount of prestige to the possession of nuclear weapons, on a scale akin to several other factors widely believed to contribute to national prestige. Second, in the eyes of the South Korean public, nuclear possession carries more prestige than nuclear restraint. Third, these views are driven in large part by a belief that nuclear weapons signal national autonomy, wealth, and scientific prowess. The findings suggest that contemporary nonproliferation norms have not fully eroded the prestige value of nuclear weapons in the eyes of the South Korean public.</p>
+</div>
 
 
 <p style="font-size: 16px;font-style: italic; margin-bottom:5; color: #666699;">
