@@ -9,4 +9,4 @@ description:
 horizontal: false
 ---
 
-<a href="https://www.dropbox.com/scl/fi/zxc9nm9uhourk507u8951/CV__Last_update_Sep_16_2024_.pdf?rlkey=fx5taga7rbcnvdrvlilyzjpg6&st=c40pos5d&dl=0"  style="color:#2CABEA; text-decoration: underline;">Here</a> is the latest version of my CV.
+<a href="https://www.dropbox.com/scl/fi/gc5hf48xz3pv2i50sewgr/CV__Last_update_Oct_2024_.pdf?rlkey=zb9pvl8b6y9mb4e7j0gl0tpuq&st=wdqzlpsr&dl=0"  style="color:#2CABEA; text-decoration: underline;">Here</a> is the latest version of my CV.

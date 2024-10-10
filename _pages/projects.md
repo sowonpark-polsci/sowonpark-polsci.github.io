@@ -55,7 +55,7 @@ else obj.style.display = "block";
 }
 </script>
 <a href="javascript: void(0);" onClick="toggle('q1')">
-<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; text-decoration: underline; color:#13799E;">Abstract</span>
+<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; text-decoration: underline; color:#2CABEA;">Abstract</span>
 </a>
 <div id="q1" style="display:none;">
 <p style="font-size: 15px; margin-left: 3.5em; margin-bottom:2em">What kinds of elite messages move public opinion on policy issues? It is well-established that a cue-giver's political party plays a significant role in shaping the effectiveness of cues on public opinion. The effects of political <em>ideology</em>, however, are less well understood, in part because ideology and party are closely intertwined in the realm of domestic politics. In this study, we disentangle the effects of party and ideology by examining elite cues in the context of American foreign policy. Foreign policy is a useful area to study the distinct effects of political ideology because foreign policy ideology is not always a reliable indicator of elites' partisan affiliations. We conducted three pre-registered survey experiments on nationally representative samples of 12,600 American adults in an effort to assess how elites' foreign policy ideological beliefs shape the effectiveness of policy cues. The results suggest that political ideology plays a significant and distinct role in shaping voters' policy attitudes.</p>
@@ -78,7 +78,7 @@ else obj.style.display = "block";
 }
 </script>
 <a href="javascript: void(0);" onClick="toggle('q2')">
-<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; text-decoration: underline; color:#13799E;">Abstract</span>
+<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; text-decoration: underline; color:#2CABEA;">Abstract</span>
 </a>
 <div id="q2" style="display:none;">
 <p style="font-size: 15px; margin-left: 3.5em; margin-bottom:2em">Does the public believe that nuclear weapons confer prestige in international politics? Many scholars have asserted that national publics often applaud leaders’ decisions to pursue nuclear weapons in part because they believe that nuclear weapons would enhance their country’s status. If the public sees nuclear acquisition as a path to national prestige, this could create political incentives for leaders to pursue nuclear weapons. Other scholars, however, argue that the prestige value of nuclear weapons has faded, and that nuclear self-restraint now carries more prestige than nuclear acquisition. In this paper, we conduct a series of surveys and experiments in South Korea--a potential nuclear threshold state--that examine the linkage between nuclear status and public perceptions of national prestige. There are three main findings. First, the South Korean public attaches a significant amount of prestige to the possession of nuclear weapons, on a scale akin to several other factors widely believed to contribute to national prestige. Second, in the eyes of the South Korean public, nuclear possession carries more prestige than nuclear restraint. Third, these views are driven in large part by a belief that nuclear weapons signal national autonomy, wealth, and scientific prowess. The findings suggest that contemporary nonproliferation norms have not fully eroded the prestige value of nuclear weapons in the eyes of the South Korean public.</p>
