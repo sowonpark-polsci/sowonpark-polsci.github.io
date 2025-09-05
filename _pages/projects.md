@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description:
 nav: true
@@ -16,17 +16,56 @@ horizontal: false
           font-weight:bold;
           margin-bottom:0.5;
           padding-top:0;">
-Dissertation Project</p>
+Working Papers</p>
 
-<p style="font-size: 16px;
+
+<p style="font-size: 18px;
+          color: #666699;">
+"Beyond the Party Line: Ideological Heterogeneity in Legislative Foreign Policy Preferences"</p>
+
+<p style="font-size: 15px;
+          margin-left: 40px;
+          margin-top: 5px;">
+<span style="font-weight: bold;">&#9679;</span>
+Co-winner of the 2025 Best Graduate Student Paper Award in the Foreign Policy Section, <em>American Political Science Association</em></p>
+
+<p style="font-size: 15px;
+          border-left: 1px solid #333;
+          padding-left: 15px;   /* space between line and text */
+          margin-left: 40px;    /* moves line + paragraph to the right */
+          line-height: 1.3;
+          text-align: justify;">
+    What motivates legislators to support or oppose foreign policy? Much of the existing scholarship points to electoral cleavages in domestic politics to explain legislative behavior in security and diplomatic affairs. While these frameworks offer appealing parsimony, they often overlook the distinctive nature of foreign policy, which often requires a high degree of consistency across administrations. Structural explanations assume partisan incentives drive legislators to respond differently to substantively similar policies, risking a portrayal of legislative behavior as largely inconsistent and opportunistic. In this paper, I develop a more nuanced account of legislative preference formation and decision-making in foreign policy by examining the role of individual legislators’ ideological orientations. Using supervised text classification on over 100,000 Senate floor speeches on foreign policy from 1947 to 2020, I develop a new measure of senators’ isolationist, cooperative internationalist, and militant internationalist preferences. The findings challenge aggregate party-level assumptions, showing that parties frequently fail to function as homogeneous, unitary actors in foreign policy because individual legislators interpret and act on issues through the lens of their own ideological commitments.</p>
+
+
+<!--<p> &nbsp; </p>-->
+<div style="height:10px;"></div>
+
+
+
+<!--*********************** Paper 2 ***********************-->
+<p style="font-size: 18px;
           color: #666699;
-          font-style: italic;">
-"Fractious Domestic Politics: How the Interplay of Ideology and Party Shapes Foreign Policy Debates"</p>
+          margin-bottom: 2px;">
+  "Partisanship, Ideology, and Elite Cues in Foreign Policy"
+  <span style="font-size: 14px;">(<strong>Sowon Park</strong>*, Todd Sechser, and Sunggun Park)</span>
+</p>
 
-<p style="font-size: 15px;">
-What motivates legislators to support or oppose foreign policy? In my dissertation, I build a composite model that examines the interplay between ideology and party, offering a more nuanced understanding of how legislative preferences are structured in foreign policy. Legislators develop personal preferences regarding whether and how the United States should engage in world affairs, which may not always align with the positions of the president or their party. Existing measures of legislators’ policy preferences, often based on roll call records, tend to overestimate partisan competition rather than reflect members’ personal ideological preferences. To investigate how legislators' personal ideological preferences and partisan motivations collectively shape their foreign policy preferences and decisions, my dissertation analyzes more than 100,000 Senate floor speeches on diverse foreign policy issues from 1947 to 2020. Using supervised machine learning, I measure senators' isolationist, cooperative internationalist, and militant internationalist preference.</p>
+<p style="font-size: 15px;
+          margin-left: 40px;
+          margin-top: 5px;">
+<span style="font-weight: bold;">&#9679;</span>
+Invited to R&R at the <em>American Journal of Political Science</em></p>
 
-<p> &nbsp; </p>
+<p style="font-size: 15px;
+          border-left: 1px solid #333;
+          padding-left: 15px;   /* space between line and text */
+          margin-left: 40px;    /* moves line + paragraph to the right */
+          line-height: 1.3;
+          text-align: justify;">
+    What kinds of elite messages influence public opinion on foreign policy issues? It is well established that an elite’s political party plays a significant role in determining the effectiveness of cues. However, in the realm of foreign policy, parties exhibit substantial ideological diversity. This often produces more complex patterns of support and opposition among political elites, leading even members of the same party to disagree on key foreign policy issues. As a result, party labels alone may not always offer voters clear and consistent guidance. In this paper, we argue that foreign policy ideology offers a more stable and precise lens through which individuals evaluate elite messages in foreign policy. Drawing on three pre-registered survey experiments conducted with a nationally representative sample of 12,600 American adults, we find that foreign policy ideology serves as powerful and distinct heuristics in shaping public opinion on international affairs.</p>
+
+
 <p> &nbsp; </p>
 
 <hr>
@@ -39,57 +78,75 @@ What motivates legislators to support or oppose foreign policy? In my dissertati
           padding-top:0;">
 Work in progress</p>
 
-<p>
-<span style="font-size: 16px;font-style: italic; margin-bottom:0; color: #666699;">
-"Partisanship, Ideology, and Elite Cues in Foreign Policy"</span>
-<!---<span style="font-size: 15px; margin-left: 0.3em; margin-bottom:0">(Latest draft <a href="https://www.dropbox.com/scl/fi/lq2evnr6ry6z013magn5s/Park-Sechser-and-Park-2024.pdf?rlkey=5w0qr2bjo5rmtxfzmvyyvlsld&st=uth339ij&dl=0" style="color:#2CABEA; text-decoration: underline">here</a>)</span>-->
-<br>
-<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; margin-top:0">
-With Todd Sechser and Sunggun Park (Draft available upon request) </span>
-<br>
+
+
+<!--*********************** Paper 3 ***********************-->
+<p style="font-size: 18px;
+          color: #666699;
+          margin-bottom: 2px;">
+  "Partisanship, Ideology, and Elite Cues in Foreign Policy"
+  <span style="font-size: 14px;">(Sunggun Park, Todd Sechser, and Sowon Park)</span>
+</p>
+
+<!-- Abstract toggle link -->
 <script type="text/javascript">
 function toggle(obj) {
-var obj=document.getElementById(obj);
-if (obj.style.display == "block") obj.style.display = "none";
-else obj.style.display = "block";
+  var obj=document.getElementById(obj);
+  if (obj.style.display == "block") obj.style.display = "none";
+  else obj.style.display = "block";
 }
 </script>
-<a href="javascript: void(0);" onClick="toggle('q1')">
-<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; text-decoration: underline; color:#2CABEA;">Abstract</span>
+
+<a href="javascript: void(0);" onClick="toggle('q3')"
+         style="text-decoration: none;"> <!-- prevent link underline -->
+  <span style="font-size: 15px;
+               margin-left: 40px;
+               margin-top: 0;
+               margin-bottom: 0;
+               color:#2CABEA;">
+    <span style="font-size: 11px; font-weight: bold;">&#9654;</span>
+    <span style="text-decoration: underline;"> Abstract</span>
+  </span>
 </a>
-<div id="q1" style="display:none;">
-<p style="font-size: 15px; margin-left: 3.5em; margin-bottom:2em">What kinds of elite messages move public opinion on policy issues? It is well-established that a cue-giver's political party plays a significant role in shaping the effectiveness of cues on public opinion. The effects of political <em>ideology</em>, however, are less well understood, in part because ideology and party are closely intertwined in the realm of domestic politics. In this study, we disentangle the effects of party and ideology by examining elite cues in the context of American foreign policy. Foreign policy is a useful area to study the distinct effects of political ideology because foreign policy ideology is not always a reliable indicator of elites' partisan affiliations. We conducted three pre-registered survey experiments on nationally representative samples of 12,600 American adults in an effort to assess how elites' foreign policy ideological beliefs shape the effectiveness of policy cues. The results suggest that political ideology plays a significant and distinct role in shaping voters' policy attitudes.</p>
+
+<!-- Abstract content -->
+<div id="q3" style="display:none;
+             margin-top:8px;">
+  <p style="font-size: 15px;
+            border-left: 1px solid #333;
+            padding-left: 20px;
+            margin-left: 50px;
+            line-height: 1.3;
+            text-align: justify;">
+        Does the public believe that nuclear weapons confer prestige in international politics? Many scholars have asserted that national publics often applaud leaders’ decisions to pursue nuclear weapons in part because they believe that nuclear weapons would enhance their country’s status. If the public sees nuclear acquisition as a path to national prestige, this could create political incentives for leaders to pursue nuclear weapons. Other scholars, however, argue that the prestige value of nuclear weapons has faded, and that nuclear self-restraint now carries more prestige than nuclear acquisition. In this paper, we conduct a series of surveys and experiments in South Korea--a potential nuclear threshold state--that examine the linkage between nuclear status and public perceptions of national prestige. There are three main findings. First, the South Korean public attaches a significant amount of prestige to the possession of nuclear weapons, on a scale akin to several other factors widely believed to contribute to national prestige. Second, in the eyes of the South Korean public, nuclear possession carries more prestige than nuclear restraint. Third, these views are driven in large part by a belief that nuclear weapons signal national autonomy, wealth, and scientific prowess. The findings suggest that contemporary nonproliferation norms have not fully eroded the prestige value of nuclear weapons in the eyes of the South Korean public.
+  </p>
 </div>
 
-
-
-<p>
-<span style="font-size: 16px;font-style: italic; margin-top:0.3cm ;margin-bottom:0; color: #666699;">
-“Nuclear Weapons and National Prestige”</span>
-<br>
-<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; margin-top:0">
-With Todd Sechser and Sunggun Park </span>
-<br>
-<script type="text/javascript">
-function toggle(obj) {
-var obj=document.getElementById(obj);
-if (obj.style.display == "block") obj.style.display = "none";
-else obj.style.display = "block";
-}
-</script>
-<a href="javascript: void(0);" onClick="toggle('q2')">
-<span style="font-size: 15px; margin-left: 1.5em; margin-bottom:0; text-decoration: underline; color:#2CABEA;">Abstract</span>
-</a>
-<div id="q2" style="display:none;">
-<p style="font-size: 15px; margin-left: 3.5em; margin-bottom:2em">Does the public believe that nuclear weapons confer prestige in international politics? Many scholars have asserted that national publics often applaud leaders’ decisions to pursue nuclear weapons in part because they believe that nuclear weapons would enhance their country’s status. If the public sees nuclear acquisition as a path to national prestige, this could create political incentives for leaders to pursue nuclear weapons. Other scholars, however, argue that the prestige value of nuclear weapons has faded, and that nuclear self-restraint now carries more prestige than nuclear acquisition. In this paper, we conduct a series of surveys and experiments in South Korea--a potential nuclear threshold state--that examine the linkage between nuclear status and public perceptions of national prestige. There are three main findings. First, the South Korean public attaches a significant amount of prestige to the possession of nuclear weapons, on a scale akin to several other factors widely believed to contribute to national prestige. Second, in the eyes of the South Korean public, nuclear possession carries more prestige than nuclear restraint. Third, these views are driven in large part by a belief that nuclear weapons signal national autonomy, wealth, and scientific prowess. The findings suggest that contemporary nonproliferation norms have not fully eroded the prestige value of nuclear weapons in the eyes of the South Korean public.</p>
-</div>
-
-
-<p style="font-size: 16px;font-style: italic; margin-bottom:5; color: #666699;">
-“Democratic Noise in Times of International Crises”</p>
+<div style="height:5px;"></div>
 
 
 
-<p style="font-size: 16px;font-style: italic; margin-bottom:0; color: #666699;">
-“Violence and Prosocial Motivation”</p>
-<p style="font-size: 15px; text-indent: 1.5em">With Todd Sechser </p>
+<!--*********************** Paper 3 ***********************-->
+<p style="font-size: 18px;
+          color: #666699;
+          margin-bottom: 2px;">
+  Foreign Policy as a Legislative Luxury Good”
+  <span style="font-size: 14px;">(Philip Potter and Sowon Park)</span>
+</p>
+
+
+<!--*********************** Paper 4 ***********************-->
+<p style="font-size: 18px;
+          color: #666699;
+          margin-bottom: 2px;">
+  "Democratic Noise in Times of International Crises"
+</p>
+
+
+<!--*********************** Paper 5 ***********************-->
+<p style="font-size: 18px;
+          color: #666699;
+          margin-bottom: 2px;">
+  "Violence and Prosocial Motivation"
+  <span style="font-size: 14px;">(Todd Sechser and Sowon Park)</span>
+</p>
