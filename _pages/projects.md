@@ -113,7 +113,6 @@ function toggle(obj) {
 <div id="q3" style="display:none;
              margin-top:8px;">
   <p style="font-size: 15px;
-            border-left: 1px solid #333;
             padding-left: 20px;
             margin-left: 50px;
             line-height: 1.3;
@@ -126,7 +125,7 @@ function toggle(obj) {
 
 
 
-<!--*********************** Paper 3 ***********************-->
+<!--*********************** Paper 4 ***********************-->
 <p style="font-size: 18px;
           color: #666699;
           margin-bottom: 2px;">
@@ -135,7 +134,7 @@ function toggle(obj) {
 </p>
 
 
-<!--*********************** Paper 4 ***********************-->
+<!--*********************** Paper 5 ***********************-->
 <p style="font-size: 18px;
           color: #666699;
           margin-bottom: 2px;">
@@ -143,7 +142,7 @@ function toggle(obj) {
 </p>
 
 
-<!--*********************** Paper 5 ***********************-->
+<!--*********************** Paper 6 ***********************-->
 <p style="font-size: 18px;
           color: #666699;
           margin-bottom: 2px;">
