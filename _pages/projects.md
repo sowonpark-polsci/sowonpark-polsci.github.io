@@ -129,7 +129,7 @@ function toggle(obj) {
 <p style="font-size: 18px;
           color: #666699;
           margin-bottom: 2px;">
-  Foreign Policy as a Legislative Luxury Good”
+  "Foreign Policy as a Legislative Luxury Good”
   <span style="font-size: 14px;">(Philip Potter and Sowon Park)</span>
 </p>
 
