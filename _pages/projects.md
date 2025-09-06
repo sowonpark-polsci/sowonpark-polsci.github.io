@@ -84,7 +84,7 @@ Work in progress</p>
 <p style="font-size: 18px;
           color: #666699;
           margin-bottom: 2px;">
-  "Partisanship, Ideology, and Elite Cues in Foreign Policy"
+  "Nuclear Weapons and National Prestige"
   <span style="font-size: 14px;">(Sunggun Park, Todd Sechser, and Sowon Park)</span>
 </p>
 
