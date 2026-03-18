@@ -31,7 +31,7 @@ Peer-Reviewed Publications</p>
           margin-left: 40px;
           margin-top: 5px;">
 <span style="font-weight: bold;">&#9679;</span>
-Accepted at the <em>American Journal of Political Science</em></p>
+<em>American Journal of Political Science</em></p>, Forthcoming
 
 <p style="font-size: 15px;
           border-left: 1px solid #333;
