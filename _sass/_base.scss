@@ -217,7 +217,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
 
     .address {
       p {
@@ -652,6 +652,14 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
     text-align: right;
   }
+}
+
+.section-header {
+  color: var(--global-header-color);
+}
+
+.papertitle-header {
+  color: var(--global-ptitle-color);
 }
 
 // Publications

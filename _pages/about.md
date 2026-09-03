@@ -15,12 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am an America in the World Consortium Postdoctoral Fellow at Duke University.
+<p style="margin-top: 35px;">
+Hi! I am an America in the World Consortium Postdoctoral Fellow at Duke University.</p>
 
-My research interests include international security, U.S. foreign policy, legislative behavior, public opinion, and political psychology.
+I am interested in domestic politics and international relations, with particular interests in foreign policy, elite behavior, public opinion, and international security.
 
-In my research, I examine the structure of foreign policy preferences among U.S. legislators and the mass public, with particular attention to the ideological nature of these preferences. Using a range of methodologies&mdash;including machine learning, text-as-data, survey experiments, and statistical methods&mdash;I study how the interaction between foreign policy ideology and partisanship shapes the behavior of domestic actors and its implications for interstate bargaining. My dissertation was supported by the Albert Gallatin Fellowship from the Thomas Jefferson Memorial Foundation.
+My research develops two complementary agendas. Focusing on U.S. foreign policy, I examine how individual foreign policy preferences interact with partisan dynamics to shape the attitudes and behavior of political elites and the mass public. I also explore how insights from domestic politics can be applied to refine and extend existing theories of international relations. To address these questions, I use a range of methodological approaches, including machine learning, text-as-data, survey experiments, and quantitative methods.
 
-I received my Ph.D. in Politics from the University of Virginia, where I also served as a Graduate Research Fellow at the National Security Policy Center in the Frank Batten School of Leadership and Public Policy (2022-24), the Quantitative Collaborative (2021-22), and the Democratic Statecraft Lab (2020-22) at the Miller Center.
+My work is forthcoming in the <em>American Journal of Political Science</em>.
+
+I received my Ph.D. in Politics from the University of Virginia in 2025, where I also served as a Graduate Research Fellow at the National Security Policy Center in the Frank Batten School of Leadership and Public Policy. My dissertation was supported by the Albert Gallatin Fellowship from the Thomas Jefferson Memorial Foundation.
 
 Email: sowon.park@duke.edu
