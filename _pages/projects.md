@@ -74,9 +74,9 @@ horizontal: false
       }
 
       /* Dark mode */
-      html[data-theme="dark"]
-      .pdf-badge:hover {
-        background-color: #005A6E;
+      html[data-theme="dark"] .pdf-badge:hover {
+        background-color: #30ABBF;
+        color: #333333;
       }
       </style>
 
