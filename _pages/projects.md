@@ -96,8 +96,6 @@ horizontal: false
 <!--<p> &nbsp; </p>-->
 <div style="height:10px;"></div>
 
-<p> &nbsp; </p>
-
 <hr>
 
 <div>
@@ -115,13 +113,20 @@ horizontal: false
    style="font-size: 18px;
           margin-left: 10px;
           margin-bottom: 10px;">
-"Beyond the Party Line: Ideological Heterogeneity in Legislative Foreign Policy Preferences"</p>
+  "Beyond the Party Line: Ideological Heterogeneity in Legislative Foreign Policy Preferences"</p>
 
 <p style="font-size: 15px;
           margin-left: 40px;
           margin-top: 5px;">
 <span style="font-weight: bold;">&#9679;</span>
+Job Market Paper</p>
+
+<p style="font-size: 15px;
+          margin-left: 40px;
+          margin-top: -15px;">
+<span style="font-weight: bold;">&#9679;</span>
 Co-winner of the 2025 Best Graduate Student Paper Award in the Foreign Policy Section, <em>American Political Science Association</em></p>
+
 
 <p style="font-size: 15px;
           border-left: 1px solid #333;
@@ -129,8 +134,49 @@ Co-winner of the 2025 Best Graduate Student Paper Award in the Foreign Policy Se
           margin-left: 40px;    /* moves line + paragraph to the right */
           line-height: 1.3;
           text-align: justify;
-          margin-bottom: 30px;">
+          ">
+
           Congress today is widely understood to operate in strong partisan alignment across most issues. Foreign policy, however, has long been viewed as a domain where legislative behavior may transcend party lines. Yet the nature and sources of this distinction remain difficult to theorize. This paper provides a new, individual-level account of foreign policy preference formation by tracing the ideological foundations of senators’ behavior. Using supervised text classification on more than 100,000 Senate floor speeches from 1947 to 2020, it develops an original measure of senators’ isolationist, cooperative internationalist, and militant internationalist orientations. These orientations consistently and powerfully explain legislative behavior in foreign policy, revealing that parties in this domain function less as unified blocs than as coalitions shaped by enduring ideological diversity. This heterogeneity not only complicates prevailing assumptions about partisan unity but may also mark foreign policy as an area where Congress is beginning to reassert its institutional prerogatives.</p>
+
+
+          <a href="https://www.dropbox.com/scl/fi/0ohk1opzx9flouchbai8n/Park_Ideological_Heterogeneity_JMP.pdf?rlkey=qv1cwc62yyx3wjvaxccbjfhgv&st=mhmscdrx&dl=0" class="pdf-badge" download>PDF</a>
+          <a href="https://www.dropbox.com/scl/fi/rkj59bdt69i745a5ja9aj/Park_Ideological_Heterogeneity_JMP_Appendix.pdf?rlkey=0kfjj3b5tnade6suxq4oi9i90&st=ktns0tnu&dl=0" class="pdf-badge appendix-badge" download>Appendix</a>
+
+                <style>
+                .pdf-badge {
+                  display: inline-block;
+                  padding: 4px 10px;
+                  margin-left: 40px;
+                  margin-bottom: 30px;
+
+                  border: 1.4px solid #777;
+                  border-radius: 5px;
+
+                  background-color: transparent;
+                  color: inherit;
+
+                  font-size: 14px;
+                  font-weight: normal;
+                  line-height: 1.2;
+                  text-decoration: none;
+
+                  transition: background-color 0.2s ease;
+                }
+
+                .appendix-badge {
+                  margin-left: 6px;
+                }
+
+                .pdf-badge:hover {
+                  background-color: #C5D7EB;
+                }
+
+                /* Dark mode */
+                html[data-theme="dark"] .pdf-badge:hover {
+                  background-color: #30ABBF;
+                  color: #333333;
+                }
+                </style>
 
 
 
